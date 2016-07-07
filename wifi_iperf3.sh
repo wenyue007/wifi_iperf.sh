@@ -1,7 +1,8 @@
 #!/bin/bash -
 #Author: Jianwei.Hu@windriver.com
 #Date: 2015/12/5
-#Version: v1.1
+#Version: v1.0
+
 expect_re=`expect -h &> /dev/null;echo $?`
 BASH="bash"
 
